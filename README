@@ -12,3 +12,12 @@ paper-based medical records make it difficult to access patient history quickly,
 and administrative staff, there is a lack of reporting tools to monitor department performance, and long waiting times occur due 
 to unstructured appointment and triage processes. HealthConnect addresses these problems 
 by providing a unified digital system tailored to the specific workflows of a public pediatric hospital department in Albania.
+
+
+System Features and Users
+The HealthConnect system is designed to improve the management of the Pediatrics Department at Qendra Spitalore Universitare "Nënë Tereza" by 
+digitizing patient and hospital operations. The main users of the system are Administrators, Doctors, Nurses, Receptionists and Users. 
+Administrators manage the system and user accounts, doctors update medical records and treatments, nurses assist with 
+patient information and bed monitoring, and receptionists handle patient registration and scheduling. The system includes key features 
+such as patient registration, bed management, doctor assignment, medical records management, and discharge summaries, 
+helping the hospital replace paper-based processes with a more efficient digital system.
