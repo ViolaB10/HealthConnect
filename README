@@ -29,3 +29,11 @@ where the front-end interface allows staff to manage patients, beds, and medical
 All data will be stored in a centralized database, ensuring fast access to patient information and better data organization. The system will also include
 user authentication and role-based access control so that each type of user (administrator, doctor, nurse, receptionist) can only access the functions 
 relevant to their role.
+
+
+Stakeholders
+The main stakeholders of the HealthConnect system include the hospital administration, doctors, nurses, receptionists,
+patients, and the IT support team at Qendra Spitalore Universitare "Nënë Tereza". Hospital administrators use the system to 
+monitor operations and manage resources. Doctors and nurses use it to manage patient information, treatments, and medical records.
+Receptionists handle patient registration and scheduling. Patients and their parents benefit from faster and more organized healthcare services. 
+The IT support team is responsible for maintaining the system and ensuring its security and proper functionality.
