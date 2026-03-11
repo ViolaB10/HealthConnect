@@ -21,3 +21,11 @@ Administrators manage the system and user accounts, doctors update medical recor
 patient information and bed monitoring, and receptionists handle patient registration and scheduling. The system includes key features 
 such as patient registration, bed management, doctor assignment, medical records management, and discharge summaries, 
 helping the hospital replace paper-based processes with a more efficient digital system.
+
+
+Technical overview 
+HealthConnect will be a web-based system accessible through a browser within the hospital network. It will use a client–server architecture,
+where the front-end interface allows staff to manage patients, beds, and medical records, while the back-end processes requests and handles system logic.
+All data will be stored in a centralized database, ensuring fast access to patient information and better data organization. The system will also include
+user authentication and role-based access control so that each type of user (administrator, doctor, nurse, receptionist) can only access the functions 
+relevant to their role.
