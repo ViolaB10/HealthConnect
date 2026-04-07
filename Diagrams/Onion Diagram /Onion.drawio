@@ -1,0 +1,259 @@
+<mxfile host="app.diagrams.net">
+<diagram id="Nyw6seaB4Jozty03blRi" name="Page-1">
+<mxGraphModel dx="2867" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+<root>
+<mxCell id="0"/>
+<mxCell id="1" parent="0"/>
+<mxCell id="ring5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;opacity=50;fontSize=14;" value="" vertex="1">
+<mxGeometry height="1400" width="1400" x="127" y="127" as="geometry"/>
+</mxCell>
+<mxCell id="ring4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;fontSize=14;" value="" vertex="1">
+<mxGeometry height="1200" width="1200" x="227" y="227" as="geometry"/>
+</mxCell>
+<mxCell id="ring3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;fontSize=14;" value="" vertex="1">
+<mxGeometry height="900" width="900" x="377" y="377" as="geometry"/>
+</mxCell>
+<mxCell id="ring2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=60;fontSize=14;" value="" vertex="1">
+<mxGeometry height="600" width="600" x="527" y="527" as="geometry"/>
+</mxCell>
+<mxCell id="ring1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=70;fontSize=14;" value="" vertex="1">
+<mxGeometry height="300" width="300" x="677" y="677" as="geometry"/>
+</mxCell>
+<mxCell id="center" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;fontStyle=1;align=center;" value="<b>HealthConnect</b><br>HMS<br><i>Pediatrics Dept</i><br><i>QSUT</i>" vertex="1">
+<mxGeometry height="150" width="150" x="752" y="752" as="geometry"/>
+</mxCell>
+<mxCell id="label_ring1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#d79b00;" value="Core Users" vertex="1">
+<mxGeometry height="20" width="90" x="590" y="930" as="geometry"/>
+</mxCell>
+<mxCell id="label_ring2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#d6b656;" value="Direct Stakeholders" vertex="1">
+<mxGeometry height="20" width="130" x="615" y="1100" as="geometry"/>
+</mxCell>
+<mxCell id="label_ring3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#82b366;" value="Indirect Stakeholders" vertex="1">
+<mxGeometry height="20" width="130" x="600" y="1250" as="geometry"/>
+</mxCell>
+<mxCell id="label_ring4" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#6c8ebf;" value="External Stakeholders" vertex="1">
+<mxGeometry height="20" width="130" x="600" y="1400" as="geometry"/>
+</mxCell>
+<mxCell id="label_ring5" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#666666;" value="Peripheral / External Environment" vertex="1">
+<mxGeometry height="20" width="185" x="575" y="1490" as="geometry"/>
+</mxCell>
+<mxCell id="doc_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Doctors" vertex="1">
+<mxGeometry height="20" width="60" x="795" y="700" as="geometry"/>
+</mxCell>
+<mxCell id="nurse_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Nurses" vertex="1">
+<mxGeometry height="20" width="60" x="915" y="840" as="geometry"/>
+</mxCell>
+<mxCell id="recep_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Receptionists" vertex="1">
+<mxGeometry height="20" width="80" x="845" y="962" as="geometry"/>
+</mxCell>
+<mxCell id="admin_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Administrators" vertex="1">
+<mxGeometry height="20" width="80" x="720" y="950" as="geometry"/>
+</mxCell>
+<mxCell id="it_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="IT Support Team" vertex="1">
+<mxGeometry height="20" width="86" x="657" y="840" as="geometry"/>
+</mxCell>
+<mxCell id="patient_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Patients & Parents" vertex="1">
+<mxGeometry height="20" width="84" x="783" y="577" as="geometry"/>
+</mxCell>
+<mxCell id="hadmin_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Hospital<br>Management" vertex="1">
+<mxGeometry height="30" width="86" x="960" y="653" as="geometry"/>
+</mxCell>
+<mxCell id="dephead_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Pediatrics Dept<br>Head" vertex="1">
+<mxGeometry height="30" width="90" x="1030" y="843" as="geometry"/>
+</mxCell>
+<mxCell id="lab_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Lab & Diagnostic<br>Staff" vertex="1">
+<mxGeometry height="30" width="90" x="960" y="1042" as="geometry"/>
+</mxCell>
+<mxCell id="pharm_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Pharmacy Staff" vertex="1">
+<mxGeometry height="20" width="84" x="783" y="1137" as="geometry"/>
+</mxCell>
+<mxCell id="fin_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Finance<br>Department" vertex="1">
+<mxGeometry height="30" width="90" x="590" y="1042" as="geometry"/>
+</mxCell>
+<mxCell id="sec_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Data Protection<br>Officer" vertex="1">
+<mxGeometry height="30" width="100" x="520" y="843" as="geometry"/>
+</mxCell>
+<mxCell id="hr_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="HR /<br>Training Staff" vertex="1">
+<mxGeometry height="30" width="84" x="578" y="653" as="geometry"/>
+</mxCell>
+<mxCell id="moh_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Albanian Ministry<br>of Health" vertex="1">
+<mxGeometry height="30" width="100" x="775" y="430" as="geometry"/>
+</mxCell>
+<mxCell id="ins_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Health Insurance<br>Fund (ISKSH)" vertex="1">
+<mxGeometry height="30" width="100" x="1048" y="510" as="geometry"/>
+</mxCell>
+<mxCell id="otherdep_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Other Hospital<br>Departments" vertex="1">
+<mxGeometry height="30" width="100" x="1165" y="843" as="geometry"/>
+</mxCell>
+<mxCell id="supplier_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Medical Equipment<br>Suppliers" vertex="1">
+<mxGeometry height="30" width="100" x="1045" y="1180" as="geometry"/>
+</mxCell>
+<mxCell id="mstud_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Medical Students<br>& Residents" vertex="1">
+<mxGeometry height="30" width="100" x="775" y="1272" as="geometry"/>
+</mxCell>
+<mxCell id="ngo_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="NGOs / Patient<br>Advocacy Groups" vertex="1">
+<mxGeometry height="30" width="106" x="440" y="1180" as="geometry"/>
+</mxCell>
+<mxCell id="vendor_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Software Dev<br>Team / Vendor" vertex="1">
+<mxGeometry height="30" width="100" x="380" y="843" as="geometry"/>
+</mxCell>
+<mxCell id="amc_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Albanian Medical<br>Council (OMBSH)" vertex="1">
+<mxGeometry height="30" width="106" x="440" y="510" as="geometry"/>
+</mxCell>
+<mxCell id="uni_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="University of<br>Medicine Tirana" vertex="1">
+<mxGeometry height="30" width="100" x="775" y="280" as="geometry"/>
+</mxCell>
+<mxCell id="who_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="WHO / Intl.<br>Health Orgs" vertex="1">
+<mxGeometry height="30" width="100" x="1120" y="372" as="geometry"/>
+</mxCell>
+<mxCell id="cyber_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Cybersecurity<br>Auditors" vertex="1">
+<mxGeometry height="30" width="100" x="1295" y="843" as="geometry"/>
+</mxCell>
+<mxCell id="media_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Media &<br>General Public" vertex="1">
+<mxGeometry height="30" width="104" x="1118" y="1322" as="geometry"/>
+</mxCell>
+<mxCell id="comm_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Local Community<br>& Families" vertex="1">
+<mxGeometry height="30" width="100" x="775" y="1412" as="geometry"/>
+</mxCell>
+<mxCell id="othhosp_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Other Hospitals<br>& Clinics" vertex="1">
+<mxGeometry height="30" width="106" x="415" y="1322" as="geometry"/>
+</mxCell>
+<mxCell id="dpa_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Data Protection<br>Authority (IDP)" vertex="1">
+<mxGeometry height="30" width="104" x="248" y="843" as="geometry"/>
+</mxCell>
+<mxCell id="donor_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Donors /<br>EU Funding Bodies" vertex="1">
+<mxGeometry height="30" width="120" x="415" y="372" as="geometry"/>
+</mxCell>
+<mxCell id="comp_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;fontColor=#b85450;" value="Competitors<br>(Negative Stakeholder)" vertex="1">
+<mxGeometry height="30" width="112" x="1260" y="1382" as="geometry"/>
+</mxCell>
+<mxCell id="govt_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Albanian Govt.<br>Digital Strategy" vertex="1">
+<mxGeometry height="30" width="100" x="775" y="177" as="geometry"/>
+</mxCell>
+<mxCell id="tech_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Intl. Health IT<br>Standards (HL7, FHIR)" vertex="1">
+<mxGeometry height="30" width="122" x="1234" y="322" as="geometry"/>
+</mxCell>
+<mxCell id="research_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Research &<br>Academic Community" vertex="1">
+<mxGeometry height="30" width="124" x="1408" y="843" as="geometry"/>
+</mxCell>
+<mxCell id="cloud_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Cloud / Hosting<br>Infrastructure Providers" vertex="1">
+<mxGeometry height="30" width="150" x="230" y="1382" as="geometry"/>
+</mxCell>
+<mxCell id="society_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Society &<br>Albanian Citizens" vertex="1">
+<mxGeometry height="30" width="100" x="775" y="1530" as="geometry"/>
+</mxCell>
+<mxCell id="os_label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontStyle=1;" value="Open Source<br>Community" vertex="1">
+<mxGeometry height="30" width="100" x="120" y="843" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-1" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="677" y="803" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-2" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="550" y="805" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-3" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="413" y="804" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-4" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="280" y="805" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-5" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="150" y="805" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-6" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="600" y="614" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-7" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="807" y="660" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-8" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="983" y="613" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-9" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="805" y="537" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-10" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="925" y="800" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-11" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="1055" y="800" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-12" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="1194" y="800" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-13" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="865" y="922" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-14" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="740" y="910" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-15" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="985" y="1004" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-16" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="615" y="1002" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-17" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="805" y="1097" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-18" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="1075" y="1137" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-19" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="473" y="1140" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-20" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="1450" y="803" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-21" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="1325" y="805" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-22" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="43" x="806" y="1232" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-24" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="43" x="805" y="1377" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-25" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="43" x="810" y="1487" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-26" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="1148" y="1282" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-27" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="1296" y="1342" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-28" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="448" y="1282" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-29" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="285" y="1342" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-30" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="807.5" y="390" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-31" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="805" y="240" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-32" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="805" y="137" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-33" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="473" y="472" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-34" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="453" y="332" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-35" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="1080" y="472" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-36" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="1150" y="337" as="geometry"/>
+</mxCell>
+<mxCell id="kKjGqOT_htrE4Yonfeqj-37" parent="1" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" value="" vertex="1">
+<mxGeometry height="40" width="40" x="1275" y="280" as="geometry"/>
+</mxCell>
+</root>
+</mxGraphModel>
+</diagram>
+</mxfile>
